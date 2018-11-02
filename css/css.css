@@ -1,0 +1,32 @@
+.main-nav{
+    display: -webkit-flex;
+    display:flex;
+    -webkit-justify-content: center;
+    justify-content: center;
+    background:darkturquoise;
+}
+
+
+
+.main-nav a{
+    font-family: "Bradley Hand";
+
+
+    background:#fff;
+    color:darkslategrey;
+    display:block;
+
+    text-decoration:none;
+}
+
+
+a:hover{
+    color:mediumpurple;
+    background-color:powderblue;
+}
+
+.main-nav,.nav-logo li{
+    list-style-type:none;
+}
+
+
